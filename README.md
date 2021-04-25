@@ -35,7 +35,7 @@ I am **Akkaraju Satvik**, a 19-year-old Computer Science student, currently enro
     <li> Understanding Discord Bot API </li>
 </ul>
 
-##Projects on my Portfolio
+<h2>Projects on my Portfolio</h2>
 
 <ul id="projects">
     <li> 
