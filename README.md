@@ -2,7 +2,7 @@
 
 <div style="text-align: center;">
 
-Follow me on<a href="https://www.instagram.com/satvik.codes/" style="display: inline;font-size: 1.05rem;"> Instagram <i class="fa fa-instagram" aria-hidden="true"></i></a> | <a href="https://www.twitter.com/Satv1k/"> Twitter <i class="fa fa-twitter" aria-hidden="true"></i></a>
+<img src="https://img.shields.io/twitter/follow/Satv1k?label=Follow%20me%20on%20Twitter&style=social">  <img src="https://img.shields.io/github/followers/akkaraju-satvik?label=Follow%20me%20on%20GitHub&style=social">
 
 </div>
 
