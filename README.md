@@ -1,19 +1,3 @@
-<style>
-    .reach {
-        margin: 0 15rem;
-        display: flex;
-        justify-content: space-between;    
-
-    }
-    .reach li {
-        display: inline-block;
-    }
-    #reach {
-        text-align: center;
-    }
-
-</style>
-
 <h1 style="text-align: center;">👋 Heya, fellow devs! </h1>
 
 <div style="text-align: center;">
