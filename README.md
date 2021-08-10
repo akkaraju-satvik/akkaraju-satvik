@@ -30,9 +30,9 @@ I am **Akkaraju Satvik**, a 19-year-old Computer Science student, currently enro
 ## Currently Learning
 
 <ul id="currently-learning">
-    <li> Sass & Advanced CSS </li>
-    <li> ES6+ JavaScript </li>
     <li> Understanding Discord Bot API </li>
+    <li> Node JS Backend Services</li>
+    <li> REST APIs </li>
 </ul>
 
 <h2>Projects on my Portfolio</h2>
