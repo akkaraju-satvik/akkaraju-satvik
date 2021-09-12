@@ -14,7 +14,7 @@
 
 I am **Akkaraju Satvik**, a 19-year-old Computer Science student, currently enrolled in **B.Tech.** programme, at **Gandhi Institute of Technology and Management, Hyderabad Campus**.
 
-> I _Code_, I _Meme_, but most importantly, I _Daydream_."
+> "I _Code_, I _Meme_, but most importantly, I _Daydream_."
 ## Interests
 
 <ul id="interests">
