@@ -59,6 +59,8 @@ Check out more of my projects in my <a href="https://www.github.com/akkaraju-sat
 
 </div>
 
+[![Satvik's GitHub stats](https://github-readme-stats.vercel.app/api?username=akkaraju-satvik)](https://github.com/anuraghazra/github-readme-stats)
+    
 <h2 id="reach"> Reach Me Here </h2>
 <div class="container">
     <ul class="reach">
@@ -69,9 +71,6 @@ Check out more of my projects in my <a href="https://www.github.com/akkaraju-sat
     </ul>
 </div>
 </div>
-
-[![Satvik's GitHub stats](https://github-readme-stats.vercel.app/api?username=akkaraju-satvik)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ---
 
