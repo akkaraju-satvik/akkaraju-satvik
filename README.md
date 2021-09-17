@@ -70,6 +70,9 @@ Check out more of my projects in my <a href="https://www.github.com/akkaraju-sat
 </div>
 </div>
 
+[![Satvik's GitHub stats](https://github-readme-stats.vercel.app/api?username=akkaraju-satvik)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ---
 
 <footer style="text-align: center;">
