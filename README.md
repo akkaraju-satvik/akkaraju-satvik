@@ -59,7 +59,7 @@ Check out more of my projects in my <a href="https://www.github.com/akkaraju-sat
 
 </div>
 
-[![Satvik's GitHub stats](https://github-readme-stats.vercel.app/api?username=akkaraju-satvik&count_private=true)](https://github.com/akkaraju-satvik/)
+[![Satvik's GitHub stats](https://github-readme-stats.vercel.app/api?username=akkaraju-satvik&count_private=true&show_icons=true)](https://github.com/akkaraju-satvik/)
     
 <h2 id="reach"> Reach Me Here </h2>
 <div class="container">
