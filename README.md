@@ -1,56 +1,35 @@
 # 👋 Heya, fellow devs! </h1>
 
-![twitter](https://img.shields.io/twitter/follow/Satv1k?label=Follow%20me%20on%20Twitter&style=social) ![github](https://img.shields.io/github/followers/akkaraju-satvik?label=Follow%20me%20on%20GitHub&style=social)
-
----
+[![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Satv1k) [![](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~akkaraju-satvik) [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto://satvik.akkaraju@gmail.com)
 
 ## About Me
 
-I am **Akkaraju Satvik**, a 19-year-old Computer Science student, currently enrolled in **B.Tech.** programme, at **Gandhi Institute of Technology and Management, Hyderabad Campus**.
+- Learning new stuff has never been boring.
+- Currently working on a few personal projects.
+- Love tinkering with APIs.
 
-> "I _Code_, I _Meme_, but most importantly, I _Daydream_."
+> ## I Code, I Meme, but most importantly, I _Daydream_."
 
-## Interests
+## Toolkit
 
-- Web Development
-- Python Scripting/ Automation
-- Minecraft
-- Tinkering with APIs
-- Browsing memes on Instagram & Reddit
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B) ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white) ![](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white) ![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) ![](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white) ![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![]()
 
-## Currently Learning
+## Latest Projects
 
-- Understanding Discord Bot API
-- Node JS Backend Services
-- REST APIs
+- ### [Minimal Create React App Template](https://www.npmjs.com/package/cra-template-neat)
 
-## Projects
+    A minimalist template for `create-react-app` with no clutter.
+    Now no more useless files and assets. 😉
 
-- ###  [Kivtas Theme for Visual Studio Code](https://www.github.com/akkaraju-satvik/kivtas-theme)
+- ### [Vent Out](https://vent-out-fkr.herokuapp.com)
 
-    A Custom Theme for Visual Studio Code, made by handpicking the colors used. Primarily Dark, but a newer version of the Theme Pack will consist of a Light Theme too. 🤞</p>
+    A place where unpopular opinions can be posted without any fear of getting found out!
+    [Go](https://vent-out-fkr.herokuapp.com) and post yours now!
 
-    [Download](https://marketplace.visualstudio.com/items?itemName=akkaraju-satvik.kivtas-theme) and try the theme now!
-
-- ### [Automated Event Link Opener for Google Calendar](https://www.github.com/akkaraju-satvik/automated-event-link-opener)
-
-    Python 🐍 script for automating link opening, from Google Calendar 📅, using the Google API 🤖.  Primarily made for opening my online classes on time, without me having to open google calendar or my college's LMS everytime I had to open a class.
-
-- ### [Restaurant Bill Generator using Vanilla JavaScript](https://www.github.com/akkaraju-satvik/restaurant-billing-js)
-
-    A simple restaurant bill 📜 generator, works only when on live server, generates a .txt file containing the bill. Not a perfect project and has a few bugs 🐞, but it works just fine ✔. </p>
-
-Check out more of my projects in my [profile](https://www.github.com/akkaraju-satvik). So do follow and look out for the projects I'm gonna post here.
-
-[![Satvik's GitHub stats](https://github-readme-stats.vercel.app/api?username=akkaraju-satvik&count_private=true&show_icons=true)](https://github.com/akkaraju-satvik/)
-
-## Reach Me Here
-
-[WhatsApp](https://wa.me/qr/EYFDUHCFFJL7D1)
-[Instagram](https://instagram.com/satvik.codes)
-[Twitter](https://twitter.com/Satv1k)
-[LinkedIn](https://www.linkedin.com/in/satvik-akkaraju-41713247/)
+### Check out more of my projects in my [profile](https://www.github.com/akkaraju-satvik).
 
 ---
 
-&copy; Akkaraju Satvik 2021
+## GitHub Stats
+
+[![Satvik's GitHub stats](https://github-readme-stats.vercel.app/api?username=akkaraju-satvik&count_private=true&show_icons=true)](https://github.com/akkaraju-satvik/)
