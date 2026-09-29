@@ -1,5 +1,5 @@
 <a href="https://satvik.xyz">
-  <img src="https://satvik.xyz/og.png" alt="Satvik Akkaraju — Software Engineer. Back-end Development · Distributed Systems · Cloud Infrastructure" width="100%">
+  <img src="assets/card.png" alt="Satvik Akkaraju — Software Engineer. Back-end Development · Distributed Systems · Cloud Infrastructure" width="100%">
 </a>
 
 <p align="center">
