@@ -8,5 +8,3 @@
   <a href="https://satvik.xyz/about"><img src="assets/btn-about.svg" alt="About" height="40"></a>
   <a href="https://satvik.xyz/contact"><img src="assets/btn-contact.svg" alt="Contact" height="40"></a>
 </p>
-
-# 👋 Hello There! 😃
